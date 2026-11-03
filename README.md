@@ -1,4 +1,4 @@
-# AstroHacks-Hackathon-2024
+# AstroHacks-Hackathon-2024🏆
 
 <img width="1280" height="720" alt="AstroHacks2024" src="https://github.com/user-attachments/assets/bc489419-2820-47b0-8a54-444266f12678" />
 
